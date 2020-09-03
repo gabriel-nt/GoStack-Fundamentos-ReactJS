@@ -24,12 +24,10 @@
 </h3>
 
 ### 🖼 Demonstração
-<p align="center">
+<p>
    <img src="https://github.com/Gabriel-Teixeira/GoStack-Fundamentos-ReactJS/blob/master/public/assets/dashboard.PNG" alt="Dashboard" width="470" height="300"/>
   <img src="https://github.com/Gabriel-Teixeira/GoStack-Fundamentos-ReactJS/blob/master/public/assets/import.PNG" alt="Dashboard" width="470" height="300"/>
 </p>
-
-
 
 ### 📎 Features
 
