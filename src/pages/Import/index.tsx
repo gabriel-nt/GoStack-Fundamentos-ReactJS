@@ -33,11 +33,11 @@ const Import: React.FC = () => {
 
       console.log(response);
       setUploadedFiles([]);
-      history.goBack();
+      // history.goBack();
     } catch (err) {
       console.log(err.response.error);
       setUploadedFiles([]);
-      history.goBack();
+      // history.goBack();
     }
   }
 
